@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="https://github.com/user-attachments/assets/3593b25d-696f-4bd6-b692-7ec13c7d101e" alt="Project Banner">
+      <img src="https://github.com/user-attachments/assets/ab0bd6bb-03b5-413f-ae6c-bbc10d5ab216" alt="Project Banner">
     </a>
   <br />
   <div>
